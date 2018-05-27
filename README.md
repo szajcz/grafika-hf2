@@ -12,4 +12,4 @@ A szoba textúrája és diffúz/ambiens visszaverési együtthatói szabadon meg
 
 Beadó portál által renderelt kép:
 
-[![grafika.png](https://s7.postimg.org/j78xemchn/grafika.png)](https://postimg.org/image/6fur842pj/)
+![rendered](rendered.PNG)
